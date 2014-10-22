@@ -1,0 +1,15 @@
+{
+    "name": "valouur/twig-a2",
+    "description": "My first Twig Engine Template Biatch!",
+    "require": {
+        "twig/twig": "~1.16"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Valentine Rogen",
+            "email": "valentinerogen@yahoo.fr"
+        }
+    ],
+    "minimum-stability": "stable"
+}
